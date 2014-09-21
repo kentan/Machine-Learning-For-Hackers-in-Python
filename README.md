@@ -1,5 +1,5 @@
 # Python Script for Machine Learning for Hackers #
-Machine Learning For Hackers is a nice book. The book explains the idea behind the machine learning. But for R language beginners, it's not easy and fun to understand how the codes work. 
+Machine Learning For Hackers from O'Reilly Media by Drew Conway and John Myles White is a nice book. The book explains the idea behind the machine learning. But for R language beginners, it's not easy and fun to understand how the codes work. 
 
 The project aims to provide codes that follow the same logic as the book in order to help you understand.
 Since the least function for understanding is implemented, the result of running codes aren't always same. 
